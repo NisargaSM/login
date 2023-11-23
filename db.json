@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "fname": "priya",
+      "lname": "raham",
+      "email": "priya@april.biz",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 1
+    },
+    {
+      "fname": "priyadf",
+      "lname": "raham",
+      "email": "priyadfghdf@april.biz",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 2
+    },
+    {
+      "fname": "nisargfa",
+      "lname": "manju",
+      "email": "nisarga@email.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 3
+    },
+    {
+      "fname": "Nisarga",
+      "lname": "raham",
+      "email": "priya@april.biz",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 4
+    },
+    {
+      "fname": "priya",
+      "lname": "raham",
+      "email": "priya@april.biz",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 5
+    },
+    {
+      "fname": "priyadf",
+      "lname": "raham",
+      "email": "priyadfghdf@april.biz",
+      "password": "000000",
+      "cpassword": "000000",
+      "id": 6
+    }
+  ]
+}
